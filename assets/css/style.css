@@ -130,6 +130,10 @@ h1{
         background-color: rgb(87, 86, 86);
     }
 
+    h1 {
+        display: none;
+    }
+
     .container {
         background-color: rgb(87, 86, 86);
 
